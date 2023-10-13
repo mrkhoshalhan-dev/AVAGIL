@@ -12,4 +12,4 @@
 [link apk](www.gr-gilaneh.ir/AVA.apk)
 
 
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
